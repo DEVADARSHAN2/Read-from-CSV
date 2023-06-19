@@ -17,6 +17,7 @@ Step 5: Increase the maximum number of rows to display the entire DataFrame.
 ```python
 developed by : DEVADARSHAN A S
 registered number : 212222110007
+
 import pandas as pd
 df = pd.read_csv('data.csv')
 print(df.head(10))
